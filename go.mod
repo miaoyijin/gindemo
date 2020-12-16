@@ -1,4 +1,4 @@
-module tools
+module gindemo
 
 go 1.12
 
