@@ -1,9 +1,10 @@
-package main;
+package cmd;
 
 import (
 	"flag"
+	version "gindemo/common/helpers"
 	"gindemo/routers"
-	"github.com/gin-gonic/gin"
+	"github.com/gin-qonic/gin"
 	"gindemo/helpers"
 )
 var v *bool
