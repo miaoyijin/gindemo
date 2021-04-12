@@ -1,5 +1,5 @@
 # gindemo
 gin demo项目111
-action test
+action  push test
 
 
